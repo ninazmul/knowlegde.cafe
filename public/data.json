@@ -1,0 +1,52 @@
+[
+  {
+    "id": 12345,
+    "cover": "https://www.freepik.com/free-photo/flat-lay-workstation-with-copy-space-laptop_6740634.htm#query=blog%20cover&position=0&from_view=search&track=ais",
+    "title": "The Galactic Odyssey",
+    "author": "John Smith",
+    "author_img": "https://www.freepik.com/free-photo/3d-rendering-zoom-call-avatar_29803189.htm#query=vector%20profile&position=21&from_view=search&track=ais",
+    "posted_date": "September 12, 2023",
+    "reading_time": 15,
+    "hashtags": ["#ScienceFiction", "#Adventure", "#SpaceTravel"]
+  },
+  {
+    "id": 67890,
+    "cover": "https://www.freepik.com/free-photo/top-view-workspace-with-laptop-paper-clips_6739688.htm#from_view=detail_serie",
+    "title": "Secrets of the Enchanted Forest",
+    "author": "Emily Davis",
+    "author_img": "https://www.freepik.com/free-photo/3d-rendering-zoom-call-avatar_29803199.htm#from_view=detail_serie",
+    "posted_date": "September 10, 2023",
+    "reading_time": 20,
+    "hashtags": ["#Fantasy", "#Mystery", "#Nature"]
+  },
+  {
+    "id": 13579,
+    "cover": "https://www.freepik.com/free-photo/top-view-workspace-with-copy-space-notebook-top-agenda_6739680.htm#from_view=detail_serie",
+    "title": "Tech Titans Unveiled",
+    "author": "David Carter",
+    "author_img": "https://www.freepik.com/free-photo/3d-rendering-zoom-call-avatar_29803198.htm#from_view=detail_serie",
+    "posted_date": "September 8, 2023",
+    "reading_time": 12,
+    "hashtags": ["#Technology", "#Business", "#Innovation"]
+  },
+  {
+    "id": 24680,
+    "cover": "https://www.freepik.com/free-photo/flatlay-gadgets-black-background_18655862.htm?query=blog%20cover#from_view=detail_alsolike",
+    "title": "Culinary Adventures Around the World",
+    "author": "Maria Rodriguez",
+    "author_img": "https://www.freepik.com/free-photo/3d-rendering-zoom-call-avatar_29803197.htm#from_view=detail_serie",
+    "posted_date": "September 6, 2023",
+    "reading_time": 18,
+    "hashtags": ["#Foodie", "#Travel", "#Cooking"]
+  },
+  {
+    "id": 98765,
+    "cover": "https://www.freepik.com/free-photo/smartphone-coffee-table-with-notebook_3442438.htm?query=blog%20cover#from_view=detail_alsolike",
+    "title": "Mindfulness and Well-Being",
+    "author": "Sarah Johnson",
+    "author_img": "https://www.freepik.com/free-photo/3d-rendering-zoom-call-avatar_29803191.htm#from_view=detail_serie",
+    "posted_date": "September 4, 2023",
+    "reading_time": 10,
+    "hashtags": ["#Mindfulness", "#SelfCare", "#Wellness"]
+  }
+]
